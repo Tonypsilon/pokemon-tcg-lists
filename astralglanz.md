@@ -1,4 +1,4 @@
-![[Astralglanz Logo.png]] 246 Karten 
+![Astralglanz Logo.png](Astralglanz Logo.png) 246 Karten 
 
 | Nummer | Name | ●⬧★☆ | # | # R | Ort |
 |-------:|------|:----:|:-:|:---:|-----|
