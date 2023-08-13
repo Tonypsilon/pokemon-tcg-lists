@@ -9,7 +9,7 @@
 |005/189 | Sichlor | ● | | | |
 |006/189 | Yanma | ● | | | |
 |007/189 | Yanmega | ⬧ | | | |
-|008/189 | Skaraborn | ● | | |
+|008/189 | Skaraborn | ● | | | | 
 |009/189 | Zirpurze | ● | | | |
 |010/189 | Zirpeise | ⬧ | | | |
 |011/189 | Wadribie | ● | | | |
@@ -17,13 +17,13 @@
 |013/189 | Folipurba | ★ | | | |
 |014/189 | Shaymin | ★ | | | |
 |015/189 | Lilminip | ● | | | |
-|016/189 | Hisui-Dressela | ★ | | | |
-|017/189 | Hisui-Dressela V | ☆ | | | |
-|018/189 | Hisui-Dressela VSTAR | ☆ | | | |
+|016/189 | Hisui-Dressella | ★ | | | |
+|017/189 | Hisui-Dressella V | ☆ | | | |
+|018/189 | Hisui-Dressella VSTAR | ☆ | | | |
 |019/189 | Bauz | ● | | | |
 |020/189 | Arboretoss | ⬧ | | | |
 |021/189 | Ponita | ● | | | |
-|022/189 | Galoppa | ★ | | | |
+|022/189 | Gallopa | ★ | | | |
 |023/189 | Feurigel | ● | | | |
 |024/189 | Igelavar | ⬧ | | | |
 |025/189 | Heatran V | ★ | | | |
@@ -63,9 +63,9 @@
 |059/189 | Traunmagil | ★ | | | |
 |060/189 | Trasla | ● | | | |
 |061/189 | Kirlia | ⬧ | | | |
-|062/189 | Guardevoir | ★ | | | |
+|062/189 | Galagladi | ★ | | | |
 |063/189 | Driftlon | ● | | | |
-|064/189 | Drifzepli | ⬧ | | | |
+|064/189 | Drifzepeli | ⬧ | | | |
 |065/189 | Selfe | ⬧ | | | |
 |066/189 | Vesprit | ★ | | | |
 |067/189 | Tobutz | ⬧ | | | |
@@ -163,8 +163,8 @@
 |159/189 | Belila | ⬧ | | | |
 |160/189 | Bibor V | ☆ | | | |
 |161/189 | Bibor V | ☆ | | | |
-|162/189 | Hisui-Dressela V | ☆ | | | |
-|163/189 | Hisui-Dressela V | ☆ | | | |
+|162/189 | Hisui-Dressella V | ☆ | | | |
+|163/189 | Hisui-Dressella V | ☆ | | | |
 |164/189 | Viridium V | ☆ | | | |
 |165/189 | Heatran V | ☆ | | | |
 |166/189 | Starmie V | ☆ | | | |
