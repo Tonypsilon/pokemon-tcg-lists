@@ -2,7 +2,7 @@
 
 | Nummer | Name | ●⬧★☆ | # | # R | Ort |
 |-------:|------|:----:|:-:|:---:|-----|
-|001/189 | Bibor V | ☆ | | | |
+|001/189 | Bibor V | ☆ | | &nexist; | |
 |002/189 | Hisui-Voltobal | ● | | | |
 |003/189 | Hisui-Lektrobal | ⬧ | | | |
 |004/189 | Sichlor | ● | | | |
@@ -18,20 +18,20 @@
 |014/189 | Shaymin | ★ | | | |
 |015/189 | Lilminip | ● | | | |
 |016/189 | Hisui-Dressela | ★ | | | |
-|017/189 | Hisui-Dressela V | ☆ | | | |
-|018/189 | Hisui-Dressela VSTAR | ☆ | | | |
+|017/189 | Hisui-Dressela V | ☆ | | &nexist; | |
+|018/189 | Hisui-Dressela VSTAR | ☆ | |&nexist; | |
 |019/189 | Bauz | ● | | | |
 |020/189 | Arboretoss | ⬧ | | | |
 |021/189 | Ponita | ● | | | |
 |022/189 | Galoppa | ★ | | | |
 |023/189 | Feurigel | ● | | | |
 |024/189 | Igelavar | ⬧ | | | |
-|025/189 | Heatran V | ★ | | | |
-|026/189 | Heatran VMAX | ☆ | | | |
-|027/189 | Strahlendes Heatran | ☆ | | | |
+|025/189 | Heatran V | ★ | | &nexist; | |
+|026/189 | Heatran VMAX | ☆ | | &nexist; | |
+|027/189 | Strahlendes Heatran | ☆ | | &nexist; | |
 |028/189 | Enton | ● | | | |
 |029/189 | Entoron | ⬧ | | | |
-|030/189 | Starmie V | ☆ | | | |
+|030/189 | Starmie V | ☆ | | &nexist; | |
 |031/189 | Quiekel | ● | | | |
 |032/189 | Keifel | ⬧ | | | |
 |033/189 | Mamutel | ★ | | | |
@@ -40,22 +40,22 @@
 |036/189 | Welsar | ⬧ | | | |
 |037/189 | Regice | ★ | | | |
 |038/189 | Glaziola | ★ | | | |
-|039/189 | Ur-Palkia V | ☆ | | | |
-|040/189 | Ur-Palkia VSTAR | ☆ | | | |
+|039/189 | Ur-Palkia V | ☆ | | &nexist;| |
+|040/189 | Ur-Palkia VSTAR | ☆ | | &nexist;| |
 |041/189 | Ottaro | ● | | | |
 |042/189 | Zwottronin | ⬧ | | | |
 |043/189 | Hisui-Barschuft | ● | | | |
 |044/189 | Hisui-Salmagnis | ★ | | | |
 |045/189 | Keldeo | ★ | | | |
-|046/189 | Strahlendes Quajutsu | | | |
+|046/189 | Strahlendes Quajutsu | ☆ | | &nexist; | |
 |047/189 | Arktip | ● | | | |
 |048/189 | Hisui-Arktilas | ★ | | | |
-|049/189 | Galar-Pantifrost V | ☆ | | | |
-|050/189 | Luxtra V | ☆ | | | |
+|049/189 | Galar-Pantifrost V | ☆ | |&nexist; | |
+|050/189 | Luxtra V | ☆ | |&nexist; | |
 |051/189 | Regieleki | ★ | | | |
 |052/189 | Hisui-Tornupto | ★ | | | |
-|053/189 | Hisui-Tornupto V | ☆ | | | |
-|054/189 | Hisui-Tornupto VSTAR | ☆ | | | |
+|053/189 | Hisui-Tornupto V | ☆ | | &nexist;| |
+|054/189 | Hisui-Tornupto VSTAR | ☆ | |&nexist; | |
 |055/189 | Togepi | ● | | | |
 |056/189 | Togetic | ⬧ | | | |
 |057/189 | Togekiss | ★ | | | |
@@ -73,37 +73,37 @@
 |069/189 | Damythir | ★ | | | |
 |070/189 | Hisui-Fukano | ● | | | |
 |071/189 | Hisui-Arkani | ★ | | | |
-|072/189 | Machomei V | ☆ | | | |
-|073/189 | Machomei VMAX | ☆ | | | |
+|072/189 | Machomei V | ☆ | | &nexist;| |
+|073/189 | Machomei VMAX | ☆ | | &nexist;| |
 |074/189 | Mogelbaum | ● | | | |
 |075/189 | Regirock | ★ | | | |
 |076/189 | Koknodon | ⬧ | | | |
 |077/189 | Rameidon | ★ | | | |
-|078/189 | Lucario V | ★ | | | |
+|078/189 | Lucario V | ★ | | &nexist;| |
 |079/189 | Hippopotas | ● | | | |
 |080/189 | Hippoterus | ⬧ | | | |
-|081/189 | Strahlendes Resladero | ☆ | | | |
+|081/189 | Strahlendes Resladero | ☆ | |&nexist; | |
 |082/189 | Hisui-Silvarro | ★ | | | |
-|083/189 | Hisui-Silvarro V | ☆ | | | |
-|084/189 | Hisui-Silvarro VSTAR | ☆ | | | |
+|083/189 | Hisui-Silvarro V | ☆ | | &nexist;| |
+|084/189 | Hisui-Silvarro VSTAR | ☆ | | &nexist;| |
 |085/189 | Axantor | ★ | | | |
 |086/189 | Axantor | ★ | | | |
-|087/189 | Axantor V | ☆ | | | |
+|087/189 | Axantor V | ☆ | | &nexist;| |
 |088/189 | Hisui-Baldorfish | ● | | | |
 |089/189 | Hisui-Baldorfish | ● | | | |
 |090/189 | Hisui-Myriador | ⬧ | | | |
 |091/189 | Hisui-Myriador | ★ | | | |
 |092/189 | Hisui-Sniebel | ● | | | |
 |093/189 | Hisui-Snieboss | ★ | | | |
-|094/189 | Hisui-Snieboss V | ☆ | | | |
+|094/189 | Hisui-Snieboss V | ☆ | | &nexist;| |
 |095/189 | Fiffyen | ● | | | |
 |096/189 | Magnayen | ★ | | | |
 |097/189 | Absol | ★ | | | |
-|098/189 | Darkrai V | ☆ | | | |
-|099/189 | Darkrai VSTAR | ☆ | | | |
+|098/189 | Darkrai V | ☆ | | &nexist;| |
+|099/189 | Darkrai VSTAR | ☆ | | &nexist;| |
 |100/189 | Hisui-Admurai | ★ | | | |
-|101/189 | Hisui-Admurai V | ☆ | | | |
-|102/189 | Hisui-Admurai VSTAR | ☆ | | | |
+|101/189 | Hisui-Admurai V | ☆ | | &nexist;| |
+|102/189 | Hisui-Admurai VSTAR | ☆ | | &nexist;| |
 |103/189 | Kleptifux | ● | | | |
 |104/189 | Gaunux | ★ | | | |
 |105/189 | Magnetilo | ● | | | |
@@ -114,11 +114,11 @@
 |110/189 | Bollterus | ★ | | | |
 |111/189 | Bronzel | ● | | | |
 |112/189 | Bronzong | ⬧ | | | |
-|113/189 | Ur-Dialga V | ☆ | | | |
-|114/189 | Ur-Dialga VSTAR | ☆ | | | |
+|113/189 | Ur-Dialga V | ☆ | | &nexist;| |
+|114/189 | Ur-Dialga VSTAR | ☆ | | &nexist;| |
 |115/189 | Gladiantri | ● | | | |
 |116/189 | Caesurio | ⬧ | | | |
-|117/189 | Knakrack V | ☆ | | | |
+|117/189 | Knakrack V | ☆ | | &nexist;| |
 |118/189 | Regidrago | ★ | | | |
 |119/189 | Evoli | ● | | | |
 |120/189 | Hoothoot | ● | | | |
@@ -134,8 +134,8 @@
 |130/189 | Regigigas | ★ | | | |
 |131/189 | Geronimatz | ● | | | |
 |132/189 | Hisui-Washakwil | ★ | | | |
-|133/189 | Kommandutan V | ☆ | | | |
-|134/189 | Damythir V | ☆ | | | |
+|133/189 | Kommandutan V | ☆ | | &nexist;| |
+|134/189 | Damythir V | ☆ | | &nexist;| |
 |135/189 | Diam | ★ | | | |
 |136/189 | Neutralisierendes Parfüm | ⬧ | | | |
 |137/189 | Taiso | ⬧ | | | |
@@ -161,90 +161,90 @@
 |157/189 | Unbekanntes Fossil | ⬧ | | | |
 |158/189 | Geduldturbo | ⬧ | | | |
 |159/189 | Belila | ⬧ | | | |
-|160/189 | Bibor V | ☆ | | | |
-|161/189 | Bibor V | ☆ | | | |
-|162/189 | Hisui-Dressela V | ☆ | | | |
-|163/189 | Hisui-Dressela V | ☆ | | | |
-|164/189 | Viridium V | ☆ | | | |
-|165/189 | Heatran V | ☆ | | | |
-|166/189 | Starmie V | ☆ | | | |
-|167/189 | Ur-Palkia V | ☆ | | | |
-|168/189 | Luxtra V | ☆ | | | |
-|169/189 | Hisui-Tornupto V | ☆ | | | |
-|170/189 | Jirachi V | ☆ | | | |
-|171/189 | Machomei V | ☆ | | | |
-|172/189 | Machomei V | ☆ | | | |
-|173/189 | Hisui-Silvarro V | ☆ | | | |
-|174/189 | Hisui-Snieboss V | ☆ | | | |
-|175/189 | Hisui-Snieboss V | ☆ | | | |
-|176/189 | Hisui-Admurai V | ☆ | | | |
-|177/189 | Ur-Dialga V | ☆ | | | |
-|178/189 | Knakrack V | ☆ | | | |
-|179/189 | Kommandutan V | ☆ | | | |
-|180/189 | Damythir V | ☆ | | | |
-|181/189 | Diam | ☆ | | | |
-|182/189 | Taiso | ☆ | | | |
-|183/189 | Zelestis | ☆ | | | |
-|184/189 | Silvanas Vitalität | ☆ | | | |
-|185/189 | Lino | ☆ | | | |
-|186/189 | Perla | ☆ | | | |
-|187/189 | Denboku | ☆ | | | |
-|188/189 | Felizia | ☆ | | | |
-|189/189 | Belila | ☆ | | | |
-|190/189 | Hisui-Dressela VSTAR | ☆ | | | |
-|191/189 | Heatran VMAX | ☆ | | | |
-|192/189 | Ur-Palkia VSTAR | ☆ | | | |
-|193/189 | Hisui-Tornupto VSTAR | ☆ | | | |
-|194/189 | Machomei VMAX | ☆ | | | |
-|195/189 | Hisui-Silvarro VSTAR | ☆ | | | |
-|196/189 | Axantor VSTAR | ☆ | | | |
-|197/189 | Hisui-Admurai VSTAR | ☆ | | | |
-|198/189 | Ur-Dialga VSTAR | ☆ | | | |
-|199/189 | Diam | ☆ | | | |
-|200/189 | Taiso | ☆ | | | |
-|201/189 | Zelestis | ☆ | | | |
-|202/189 | Silvanas Vitalität | ☆ | | | |
-|203/189 | Lino | ☆ | | | |
-|204/189 | Perla | ☆ | | | |
-|205/189 | Denboku | ☆ | | | |
-|206/189 | Felizia | ☆ | | | |
-|207/189 | Belila | ☆ | | | |
-|208/189 | Ur-Palkia VSTAR | ☆ | | | |
-|209/189 | Hisui-Admurai VSTAR | ☆ | | | |
-|210/189 | Ur-Dialga VSTAR | ☆ | | | |
-|211/189 | Wahrgürtel | ☆ | | | |
-|212/189 | Jubeldorf | ☆ | | | |
-|213/189 | Schneegipfelpfad | ☆ | | | |
-|214/189 | Sinnoh-Tempel | ☆ | | | |
-|215/189 | Trekkingschuhe | ☆ | | | |
-|216/189 | Doppel-Turbo-Energie | ☆ | | | |
-|TG01/TG30 | Rexblisar | ★ | | | |
-|TG02/TG30 | Drapfel | ★ | | | |
-|TG03/TG30 | Seedraking | ★ | | | |
-|TG04/TG30 | Mottineva | ★ | | | |
-|TG05/TG30 | Guardevoir | ★ | | | |
-|TG06/TG30 | Damythir | ★ | | | |
-|TG07/TG30 | Legios | ★ | | | |
-|TG08/TG30 | Axantor | ★ | | | |
-|TG09/TG30 | Magnayen | ★ | | | |
-|TG10/TG30 | Galar-Barrikadax | ★ | | | |
-|TG11/TG30 | Bronzong | ★ | | | |
-|TG12/TG30 | Hoothoot | ★ | | | |
-|TG13/TG30 | Starmie V | ☆ | | | |
-|TG14/TG30 | Schimmelreiter-Coronospa V | ☆ | | | |
-|TG15/TG30 | Schimmelreiter-Coronospa VMAX | ☆ | | | |
-|TG16/TG30 | Galar-Arktos V | ☆ | | | |
-|TG17/TG30 | Rappenreiter-Coronospa V | ☆ | | | |
-|TG18/TG30 | Rappenreiter-Coronospa VMAX | ☆ | | | |
-|TG19/TG30 | Galar-Zapdos V | ☆ | | | |
-|TG20/TG30 | Galar-Lavados V | ☆ | | | |
-|TG21/TG30 | Zacian V | ☆ | | | |
-|TG22/TG30 | Zamazenta V | ☆ | | | |
-|TG23/TG30 | Knakrack V | ☆ | | | |
-|TG24/TG30 | Nio | ☆ | | | |
-|TG25/TG30 | Saida | ☆ | | | |
-|TG26/TG30 | Mel | ☆ | | | |
-|TG27/TG30 | Yarro | ☆ | | | |
-|TG28/TG30 | Nezz | ☆ | | | |
-|TG29/TG30 | Schimmelreiter-Coronospa VMAX | ☆ | | | |
-|TG30/TG30 | Rappenreiter-Coronospa VMAX | ☆ | | | |
+|160/189 | Bibor V | ☆ | | &nexist;| |
+|161/189 | Bibor V | ☆ | | &nexist;| |
+|162/189 | Hisui-Dressela V | ☆ | |&nexist; | |
+|163/189 | Hisui-Dressela V | ☆ | |&nexist; | |
+|164/189 | Viridium V | ☆ | | &nexist;| |
+|165/189 | Heatran V | ☆ | | &nexist;| |
+|166/189 | Starmie V | ☆ | | &nexist;| |
+|167/189 | Ur-Palkia V | ☆ | |&nexist; | |
+|168/189 | Luxtra V | ☆ | | &nexist;| |
+|169/189 | Hisui-Tornupto V | ☆ | | &nexist;| |
+|170/189 | Jirachi V | ☆ | | &nexist;| |
+|171/189 | Machomei V | ☆ | | &nexist;| |
+|172/189 | Machomei V | ☆ | | &nexist;| |
+|173/189 | Hisui-Silvarro V | ☆ | | &nexist;| |
+|174/189 | Hisui-Snieboss V | ☆ | | &nexist;| |
+|175/189 | Hisui-Snieboss V | ☆ | | &nexist;| |
+|176/189 | Hisui-Admurai V | ☆ | | &nexist;| |
+|177/189 | Ur-Dialga V | ☆ | | &nexist;| |
+|178/189 | Knakrack V | ☆ | | &nexist;| |
+|179/189 | Kommandutan V | ☆ | | &nexist;| |
+|180/189 | Damythir V | ☆ | |&nexist; | |
+|181/189 | Diam | ☆ | | &nexist;| |
+|182/189 | Taiso | ☆ | | &nexist;| |
+|183/189 | Zelestis | ☆ | | &nexist;| |
+|184/189 | Silvanas Vitalität | ☆ | |&nexist; | |
+|185/189 | Lino | ☆ | | &nexist;| |
+|186/189 | Perla | ☆ | | &nexist;| |
+|187/189 | Denboku | ☆ | | &nexist;| |
+|188/189 | Felizia | ☆ | | &nexist;| |
+|189/189 | Belila | ☆ | | &nexist;| |
+|190/189 | Hisui-Dressela VSTAR | ☆ | |&nexist; | |
+|191/189 | Heatran VMAX | ☆ | | &nexist;| |
+|192/189 | Ur-Palkia VSTAR | ☆ | | &nexist;| |
+|193/189 | Hisui-Tornupto VSTAR | ☆ | | &nexist;| |
+|194/189 | Machomei VMAX | ☆ | | &nexist;| |
+|195/189 | Hisui-Silvarro VSTAR | ☆ | | &nexist;| |
+|196/189 | Axantor VSTAR | ☆ | | &nexist;| |
+|197/189 | Hisui-Admurai VSTAR | ☆ | | &nexist;| |
+|198/189 | Ur-Dialga VSTAR | ☆ | | &nexist;| |
+|199/189 | Diam | ☆ | | &nexist;| |
+|200/189 | Taiso | ☆ | | &nexist;| |
+|201/189 | Zelestis | ☆ | | &nexist;| |
+|202/189 | Silvanas Vitalität | ☆ | |&nexist; | |
+|203/189 | Lino | ☆ | | &nexist;| |
+|204/189 | Perla | ☆ | | &nexist;| |
+|205/189 | Denboku | ☆ | | &nexist;| |
+|206/189 | Felizia | ☆ | | &nexist;| |
+|207/189 | Belila | ☆ | | &nexist;| |
+|208/189 | Ur-Palkia VSTAR | ☆ | |&nexist; | |
+|209/189 | Hisui-Admurai VSTAR | ☆ | | &nexist;| |
+|210/189 | Ur-Dialga VSTAR | ☆ | | &nexist;| |
+|211/189 | Wahrgürtel | ☆ | | &nexist;| |
+|212/189 | Jubeldorf | ☆ | | &nexist;| |
+|213/189 | Schneegipfelpfad | ☆ | | &nexist;| |
+|214/189 | Sinnoh-Tempel | ☆ | | &nexist;| |
+|215/189 | Trekkingschuhe | ☆ | | &nexist;| |
+|216/189 | Doppel-Turbo-Energie | ☆ | | &nexist;| |
+|TG01/TG30 | Rexblisar | ★ | | &nexist;| |
+|TG02/TG30 | Drapfel | ★ | | &nexist;| |
+|TG03/TG30 | Seedraking | ★ | | &nexist;| |
+|TG04/TG30 | Mottineva | ★ | | &nexist;| |
+|TG05/TG30 | Guardevoir | ★ | | &nexist;| |
+|TG06/TG30 | Damythir | ★ | | &nexist;| |
+|TG07/TG30 | Legios | ★ | | &nexist;| |
+|TG08/TG30 | Axantor | ★ | | &nexist;| |
+|TG09/TG30 | Magnayen | ★ | | &nexist;| |
+|TG10/TG30 | Galar-Barrikadax | ★ | | &nexist;| |
+|TG11/TG30 | Bronzong | ★ | | &nexist;| |
+|TG12/TG30 | Hoothoot | ★ | | &nexist;| |
+|TG13/TG30 | Starmie V | ☆ | | &nexist;| |
+|TG14/TG30 | Schimmelreiter-Coronospa V | ☆ | |&nexist; | |
+|TG15/TG30 | Schimmelreiter-Coronospa VMAX | ☆ | | &nexist;| |
+|TG16/TG30 | Galar-Arktos V | ☆ | | &nexist;| |
+|TG17/TG30 | Rappenreiter-Coronospa V | ☆ | |&nexist; | |
+|TG18/TG30 | Rappenreiter-Coronospa VMAX | ☆ | | &nexist;| |
+|TG19/TG30 | Galar-Zapdos V | ☆ | | &nexist;| |
+|TG20/TG30 | Galar-Lavados V | ☆ | | &nexist;| |
+|TG21/TG30 | Zacian V | ☆ | | &nexist;| |
+|TG22/TG30 | Zamazenta V | ☆ | | &nexist;| |
+|TG23/TG30 | Knakrack V | ☆ | | &nexist;| |
+|TG24/TG30 | Nio | ☆ | | &nexist;| |
+|TG25/TG30 | Saida | ☆ | | &nexist;| |
+|TG26/TG30 | Mel | ☆ | | &nexist;| |
+|TG27/TG30 | Yarro | ☆ | | &nexist;| |
+|TG28/TG30 | Nezz | ☆ | | &nexist;| |
+|TG29/TG30 | Schimmelreiter-Coronospa VMAX | ☆ | | &nexist;| |
+|TG30/TG30 | Rappenreiter-Coronospa VMAX | ☆ | | &nexist;| |
