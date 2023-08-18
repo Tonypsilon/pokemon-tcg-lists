@@ -90,7 +90,7 @@
 |086/159 | Scherox | ★ | | | |
 |087/159 | Stollunior | ● | | | |
 |088/159 | Stollrak | ⬧ | | | |
-|089/159 | Stollos | ★ | | | |
+|089/159 | Stolloss | ★ | | | |
 |090/159 | Metang | ⬧ | | | |
 |091/159 | Gladiantri | ● | | | |
 |092/159 | Gladiantri | ● | | | |
