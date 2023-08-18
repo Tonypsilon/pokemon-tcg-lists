@@ -14,17 +14,17 @@
 |010/159 | Zirpurze | ● | | | |
 |011/159 | Kikugi | ● | | | |
 |012/159 | Venuflibis | ⬧ | | | |
-|013/159 | Folipurba V | ☆ | | | |
-|014/159 | Folipurba VSTAR | ☆ | | | |
+|013/159 | Folipurba V | ☆ | | &nexist; | |
+|014/159 | Folipurba VSTAR | ☆ | | &nexist; | |
 |015/159 | Mabula | ● | | | |
 |016/159 | Zarude | ★ | | | |
 |017/159 | Coronospa | ★ | | | |
-|018/159 | Glurak V | ☆ | | | |
-|019/159 | Glurak VSTAR | ☆ | | | |
-|020/159 | Strahlendes Glurak | ☆ | | | |
+|018/159 | Glurak V | ☆ | | &nexist; | |
+|019/159 | Glurak VSTAR | ☆ | | &nexist; | |
+|020/159 | Strahlendes Glurak | ☆ | | &nexist; | |
 |021/159 | Entei | ★ | | | |
-|022/159 | Grillchita V | ☆ | | | |
-|023/159 | Grillchita VSTAR | ☆ | | | |
+|022/159 | Grillchita V | ☆ | | &nexist; | |
+|023/159 | Grillchita VSTAR | ☆ | | &nexist; | |
 |024/159 | Ignivor | ● | | | |
 |025/159 | Ramoth | ★ | | | |
 |026/159 | Volcanion | ★ | | | |
@@ -38,36 +38,36 @@
 |034/159 | Schneppke | ● | | | |
 |035/159 | Liebiskus | ● | | | |
 |036/159 | Kyogre | ★ | | | |
-|037/159 | Kyogre V | ☆ | | | |
-|038/159 | Glaziola V | ☆ | | | |
+|037/159 | Kyogre V | ☆ | | &nexist; | |
+|038/159 | Glaziola V | ☆ | | &nexist; | |
 |039/159 | Sheinux | ● | | | |
 |040/159 | Sheinux | ● | | | |
 |041/159 | Luxio | ⬧ | | | |
 |042/159 | Luxio | ⬧ | | | |
 |043/159 | Luxtra | ★ | | | |
 |044/159 | Luxtra | ★ | | | |
-|045/159 | Rotom V | ★ | | | |
-|046/159 | Rotom VSTAR | ☆ | | | |
+|045/159 | Rotom V | ★ | | &nexist; | |
+|046/159 | Rotom VSTAR | ☆ | | &nexist; | |
 |047/159 | Emolga | ● | | | |
 |048/159 | Zapplalek | ⬧ | | | |
 |049/159 | Eguana | ● | | | |
 |050/159 | Elezard | ★ | | | |
-|051/159 | Strahlendes Akkup | ☆ | | | |
+|051/159 | Strahlendes Akkup | ☆ | | &nexist; | |
 |052/159 | Zeraora | ★ | | | |
-|053/159 | Zeraora V | ☆ | | | |
-|054/159 | Zeraora VMAX | ☆ | | | |
-|055/159 | Zeraora VSTAR | ☆ | | | |
+|053/159 | Zeraora V | ☆ | | &nexist; | |
+|054/159 | Zeraora VMAX | ☆ | | &nexist; | |
+|055/159 | Zeraora VSTAR | ☆ | | &nexist; | |
 |056/159 | Britzigel | ⬧ | | | |
 |057/159 | Owei | ● | | | |
 |058/159 | Kokowei | ★ | | | |
 |059/159 | Mewtu | ★ | | | |
-|060/159 | Mew V| ☆ | | | |
+|060/159 | Mew V | ☆ | | &nexist; | |
 |061/159 | Girafarig | ⬧ | | | |
 |062/159 | Lunastein | ⬧ | | | |
 |063/159 | Zwirrklop | ⬧ | | | |
 |064/159 | Kapu-Fala | ★ | | | |
-|065/159 | Silembrim V | ☆ | | | |
-|066/159 | Silembrim VMAX | ☆ | | | |
+|065/159 | Silembrim V | ☆ | | &nexist; | |
+|066/159 | Silembrim VMAX | ☆ | | &nexist; | |
 |067/159 | Cupidos | ★ | | | |
 |068/159 | Georok | ⬧ | | | |
 |069/159 | Sonnfel | ⬧ | | | |
@@ -96,32 +96,32 @@
 |092/159 | Gladiantri | ● | | | |
 |093/159 | Caesurio | ⬧ | | | |
 |094/159 | Zacian | ★ | | | |
-|095/159 | Zacian V | ☆ | | | |
-|096/159 | Zacian VSTAR | ☆ | | | |
+|095/159 | Zacian V | ☆ | | &nexist; | |
+|096/159 | Zacian VSTAR | ☆ | | &nexist; | |
 |097/159 | Zamazenta | ★ | | | |
-|098/159 | Zamazenta V | ☆ | | | |
-|099/159 | Zamazenta VSTAR | ☆ | | | |
-|100/159 | Rayquaza V | ☆ | | | |
-|101/159 | Rayquaza VMAX | ☆ | | | |
-|102/159 | Rayquaza VMAX | ☆ | | | |
-|103/159 | Duraludon V | ☆ | | | |
-|104/159 | Duraludon VMAX | ☆ | | | |
-|105/159 | Strahlendes Endynalos | ☆ | | | |
+|098/159 | Zamazenta V | ☆ | | &nexist; | |
+|099/159 | Zamazenta VSTAR | ☆ | | &nexist; | |
+|100/159 | Rayquaza V | ☆ | | &nexist; | |
+|101/159 | Rayquaza VMAX | ☆ | | &nexist; | |
+|102/159 | Rayquaza VMAX | ☆ | | &nexist; | |
+|103/159 | Duraludon V | ☆ | | &nexist; | |
+|104/159 | Duraludon VMAX | ☆ | | &nexist; | |
+|105/159 | Strahlendes Endynalos | ☆ | | &nexist; | |
 |106/159 | Tauros | ★ | | | |
 |107/159 | Ditto | ★ | | | |
-|108/159 | Evoli V | ☆ | | | |
+|108/159 | Evoli V | ☆ | | &nexist; | |
 |109/159 | Relaxo | ★ | | | |
 |110/159 | Staralili | ● | | | |
 |111/159 | Bidiza | ● | | | |
 |112/159 | Plaudagei | ● | | | |
-|113/159 | Regigigas V | ☆ | | | |
-|114/159 | Regigigas VSTAR | ☆ | | | |
+|113/159 | Regigigas V | ☆ | | &nexist; | |
+|114/159 | Regigigas VSTAR | ☆ | | &nexist; | |
 |115/159 | Shaymin | ⬧ | | | |
-|116/159 | Bissbark V | ☆ | | | |
+|116/159 | Bissbark V | ☆ | | &nexist; | |
 |117/159 | Mangunior | ● | | | |
 |118/159 | Manguspektor | ★ | | | |
 |119/159 | Kommandutan | ★ | | | |
-|120/159 | Schlaraffel V | ☆ | | | |
+|120/159 | Schlaraffel V | ☆ | | &nexist; | |
 |121/159 | Wolly | ● | | | |
 |122/159 | Zwollock | ★ | | | |
 |123/159 | Saida | ★ | | | |
@@ -144,91 +144,91 @@
 |140/159 | Roy | ★ | | | |
 |141/159 | Sonderbonbon | ⬧ | | | |
 |142/159 | Rettungsbox | ⬧ | | | |
-|143/159 | Luft-Siegelstein | ★ | | | |
+|143/159 | Luft-Siegelstein | ★ | | &nexist; | |
 |144/159 | Tausch | ● | | | |
 |145/159 | Trekkingschuhe | ⬧ | | | |
 |146/159 | Hyperball | ⬧ | | | |
-|147/159 | Kamillas Glanz | ☆ | | | |
-|148/159 | Freunde aus Hisui | ☆ | | | |
-|149/159 | Freunde aus Sinnoh | ☆ | | | |
-|150/159 | Forschung des Professors | ☆ | | | |
-|151/159 | Volo | ☆ | | | |
-|152/159 | Pflanzen-Energie | ☆ | | | |
-|153/159 | Feuer-Energie | ☆ | | | |
-|154/159 | Wasser-Energie | ☆ | | | |
-|155/159 | Elektro-Energie | ☆ | | | |
-|156/159 | Psycho-Energie | ☆ | | | |
-|157/159 | Kampf-Energie | ☆ | | | |
-|158/159 | Finsternis-Energie | ☆ | | | |
-|159/159 | Metall-Energie | ☆ | | | |
+|147/159 | Kamillas Glanz | ☆ | | &nexist; | |
+|148/159 | Freunde aus Hisui | ☆ | | &nexist; | |
+|149/159 | Freunde aus Sinnoh | ☆ | | &nexist; | |
+|150/159 | Forschung des Professors | ☆ | | &nexist; | |
+|151/159 | Volo | ☆ | | &nexist; | |
+|152/159 | Pflanzen-Energie | ☆ | | &nexist; | |
+|153/159 | Feuer-Energie | ☆ | | &nexist; | |
+|154/159 | Wasser-Energie | ☆ | | &nexist; | |
+|155/159 | Elektro-Energie | ☆ | | &nexist; | |
+|156/159 | Psycho-Energie | ☆ | | &nexist; | |
+|157/159 | Kampf-Energie | ☆ | | &nexist; | |
+|158/159 | Finsternis-Energie | ☆ | | &nexist; | |
+|159/159 | Metall-Energie | ☆ | | &nexist; | |
 |160/159 | Pikachu | ☆ | | | |
-|GG01/GG70 | Hisui-Voltobal | ☆ | | | |
-|GG02/GG70 | Zirpeise | ☆ | | | |
-|GG03/GG70 | Magbrant | ☆ | | | |
-|GG04/GG70 | Choreogel | ☆ | | | |
-|GG05/GG70 | Lapras | ☆ | | | |
-|GG06/GG70 | Manaphy | ☆ | | | |
-|GG07/GG70 | Keldeo | ☆ | | | |
-|GG08/GG70 | Elevoltek | ☆ | | | |
-|GG09/GG70 | Riffex | ☆ | | | |
-|GG10/GG70 | Mew | ☆ | | | |
-|GG11/GG70 | Lunastein | ☆ | | | |
-|GG12/GG70 | Deoxys | ☆ | | | |
-|GG13/GG70 | Diancie | ☆ | | | |
-|GG14/GG70 | Curelei | ☆ | | | |
-|GG15/GG70 | Sonnfel | ☆ | | | |
-|GG16/GG70 | Absol | ☆ | | | |
-|GG17/GG70 | Gaunux | ☆ | | | |
-|GG18/GG70 | Magnezone | ☆ | | | |
-|GG19/GG70 | Altaria | ☆ | | | |
-|GG20/GG70 | Latias | ☆ | | | |
-|GG21/GG70 | Hisui-Viscogon | ☆ | | | |
-|GG22/GG70 | Ditto | ☆ | | | |
-|GG23/GG70 | Dummisel | ☆ | | | |
-|GG24/GG70 | Miltank | ☆ | | | |
-|GG25/GG70 | Bidifas | ☆ | | | |
-|GG26/GG70 | Riolu | ☆ | | | |
-|GG27/GG70 | Wablu | ☆ | | | |
-|GG28/GG70 | Zwirrlicht | ☆ | | | |
-|GG29/GG70 | Bidiza | ☆ | | | |
-|GG30/GG70 | Pikachu | ☆ | | | |
-|GG31/GG70 | Chelast | ☆ | | | |
-|GG32/GG70 | Paras | ☆ | | | |
-|GG33/GG70 | Fiffyen | ☆ | | | |
-|GG34/GG70 | Waaty | ☆ | | | |
-|GG35/GG70 | Folipurba | ☆ | | | |
-|GG36/GG70 | Entei | ☆ | | | |
-|GG37/GG70 | Grillchita | ☆ | | | |
-|GG38/GG70 | Suicune | ☆ | | | |
-|GG39/GG70 | Lumineon | ☆ | | | |
-|GG40/GG70 | Glaziola | ☆ | | | |
-|GG41/GG70 | Raikou | ☆ | | | |
-|GG42/GG70 | Zeraora | ☆ | | | |
-|GG43/GG70 | Zeraora | ☆ | | | |
-|GG44/GG70 | Mewtu | ☆ | | | |
-|GG45/GG70 | Deoxys | ☆ | | | |
-|GG46/GG70 | Deoxys | ☆ | | | |
-|GG47/GG70 | Silembrim | ☆ | | | |
-|GG48/GG70 | Zacian | ☆ | | | |
-|GG49/GG70 | Piondragi | ☆ | | | |
-|GG50/GG70 | Darkrai | ☆ | | | |
-|GG51/GG70 | Hisui-Admurai | ☆ | | | |
-|GG52/GG70 | Hisui-Admurai | ☆ | | | |
-|GG53/GG70 | Hoopa | ☆ | | | |
-|GG54/GG70 | Zamazenta | ☆ | | | |
-|GG55/GG70 | Regigigas | ☆ | | | |
-|GG56/GG70 | Hisui-Zoroark | ☆ | | | |
-|GG57/GG70 | Diam | ☆ | | | |
-|GG58/GG70 | Cherens Obhut | ☆ | | | |
-|GG59/GG70 | Achromas' Experiment | ☆ | | | |
-|GG60/GG70 | Cynthias Ehrgeiz | ☆ | | | |
-|GG61/GG70 | Silvanas Vitalität | ☆ | | | |
-|GG62/GG70 | Lino | ☆ | | | |
-|GG63/GG70 | Perla | ☆ | | | |
-|GG64/GG70 | Mel | ☆ | | | |
-|GG65/GG70 | Roy | ☆ | | | |
-|GG66/GG70 | Felizia | ☆ | | | |
-|GG67/GG70 | Ur-Palkia | ☆ | | | |
-|GG68/GG70 | Ur-Dialga | ☆ | | | |
-|GG69/GG70 | Giratina | ☆ | | | |
-|GG70/GG70 | Arceus | ☆ | | | |
+|GG01/GG70 | Hisui-Voltoball | ☆ | | &nexist; | |
+|GG02/GG70 | Zirpeise | ☆ | | &nexist; | |
+|GG03/GG70 | Magbrant | ☆ | | &nexist; | |
+|GG04/GG70 | Choreogel | ☆ | | &nexist; | |
+|GG05/GG70 | Lapras | ☆ | | &nexist; | |
+|GG06/GG70 | Manaphy | ☆ | | &nexist; | |
+|GG07/GG70 | Keldeo | ☆ | | &nexist; | |
+|GG08/GG70 | Elevoltek | ☆ | | &nexist; | |
+|GG09/GG70 | Riffex | ☆ | | &nexist; | |
+|GG10/GG70 | Mew | ☆ | | &nexist; | |
+|GG11/GG70 | Lunastein | ☆ | | &nexist; | |
+|GG12/GG70 | Deoxys | ☆ | | &nexist; | |
+|GG13/GG70 | Diancie | ☆ | | &nexist; | |
+|GG14/GG70 | Curelei | ☆ | | &nexist; | |
+|GG15/GG70 | Sonnfel | ☆ | | &nexist; | |
+|GG16/GG70 | Absol | ☆ | | &nexist; | |
+|GG17/GG70 | Gaunux | ☆ | | &nexist; | |
+|GG18/GG70 | Magnezone | ☆ | | &nexist; | |
+|GG19/GG70 | Altaria | ☆ | | &nexist; | |
+|GG20/GG70 | Latias | ☆ | | &nexist; | |
+|GG21/GG70 | Hisui-Viscogon | ☆ | | &nexist; | |
+|GG22/GG70 | Ditto | ☆ | | &nexist; | |
+|GG23/GG70 | Dummisel | ☆ | | &nexist; | |
+|GG24/GG70 | Miltank | ☆ | | &nexist; | |
+|GG25/GG70 | Bidifas | ☆ | | &nexist; | |
+|GG26/GG70 | Riolu | ☆ | | &nexist; | |
+|GG27/GG70 | Wablu | ☆ | | &nexist; | |
+|GG28/GG70 | Zwirrlicht | ☆ | | &nexist; | |
+|GG29/GG70 | Bidiza | ☆ | | &nexist; | |
+|GG30/GG70 | Pikachu | ☆ | | &nexist; | |
+|GG31/GG70 | Chelast | ☆ | | &nexist; | |
+|GG32/GG70 | Paras | ☆ | | &nexist; | |
+|GG33/GG70 | Fiffyen | ☆ | | &nexist; | |
+|GG34/GG70 | Voltilamm | ☆ | | &nexist; | |
+|GG35/GG70 | Folipurba VSTAR | ☆ | | &nexist; | |
+|GG36/GG70 | Entei V | ☆ | | &nexist; | |
+|GG37/GG70 | Grillchita VSTAR | ☆ | | &nexist; | |
+|GG38/GG70 | Suicune V | ☆ | | &nexist; | |
+|GG39/GG70 | Lumineon V | ☆ | | &nexist; | |
+|GG40/GG70 | Glaziola VSTAR | ☆ | | &nexist; | |
+|GG41/GG70 | Raikou V | ☆ | | &nexist; | |
+|GG42/GG70 | Zeraora VMAX | ☆ | | &nexist; | |
+|GG43/GG70 | Zeraora VSTAR | ☆ | | &nexist; | |
+|GG44/GG70 | Mewtu VSTAR | ☆ | | &nexist; | |
+|GG45/GG70 | Deoxys VMAX | ☆ | | &nexist; | |
+|GG46/GG70 | Deoxys VSTAR | ☆ | | &nexist; | |
+|GG47/GG70 | Silembrim VMAX | ☆ | | &nexist; | |
+|GG48/GG70 | Zacian V | ☆ | | &nexist; | |
+|GG49/GG70 | Piondragi V | ☆ | | &nexist; | |
+|GG50/GG70 | Darkrai VSTAR | ☆ | | &nexist; | |
+|GG51/GG70 | Hisui-Admurai V | ☆ | | &nexist; | |
+|GG52/GG70 | Hisui-Admurai VSTAR | ☆ | | &nexist; | |
+|GG53/GG70 | Hoopa V | ☆ | | &nexist; | |
+|GG54/GG70 | Zamazenta V | ☆ | | &nexist; | |
+|GG55/GG70 | Regigigas VSTAR | ☆ | | &nexist; | |
+|GG56/GG70 | Hisui-Zoroark VSTAR | ☆ | | &nexist; | |
+|GG57/GG70 | Diam | ☆ | | &nexist; | |
+|GG58/GG70 | Cherens Obhut | ☆ | | &nexist; | |
+|GG59/GG70 | Achromas' Experiment | ☆ | | &nexist; | |
+|GG60/GG70 | Cynthias Ehrgeiz | ☆ | | &nexist; | |
+|GG61/GG70 | Silvanas Vitalität | ☆ | | &nexist; | |
+|GG62/GG70 | Lino | ☆ | | &nexist; | |
+|GG63/GG70 | Perla | ☆ | | &nexist; | |
+|GG64/GG70 | Mel | ☆ | | &nexist; | |
+|GG65/GG70 | Roy | ☆ | | &nexist; | |
+|GG66/GG70 | Felizia | ☆ | | &nexist; | |
+|GG67/GG70 | Ur-Palkia VSTAR | ☆ | | &nexist; | |
+|GG68/GG70 | Ur-Dialga VSTAR | ☆ | | &nexist; | |
+|GG69/GG70 | Giratina VSTAR | ☆ | | &nexist; | |
+|GG70/GG70 | Arceus VSTAR | ☆ | | &nexist; | |
